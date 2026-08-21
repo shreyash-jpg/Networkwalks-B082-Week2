@@ -1,13 +1,6 @@
 
 # 🛡️ Cybersecurity Reconnaissance & Network Scanning
 
-### Networkwalks Cybersecurity Internship — Batch B082 | Week 2
-
-> **Phase 1:** Reconnaissance & Footprinting
-
-> **Phase 2:** Scanning & Network Discovery
-
----
 
 ## 📌 Project Overview
 
@@ -60,7 +53,6 @@ The primary objectives of this project were to:
 | 🛡️ WAF Detection          | `Wafw00f`             |
 | 🗂️ DNS Enumeration        | `DNSRecon`            |
 | 🔍 Search Engine Recon     | GHDB / Google Dorking |
-| 🕸️ OSINT & Entity Mapping | Maltego               |
 | 🕵️ OSINT Aggregation      | theHarvester          |
 | 📡 Network Discovery       | Nmap                  |
 | 🖥️ Network Visualization  | Zenmap                |
@@ -170,36 +162,7 @@ The report identifies GHDB reconnaissance as a method for discovering informatio
 
 ---
 
-## 🕸️ W2-PM3 — Infrastructure Mapping with Maltego
-
-**Focus:** Graphical OSINT and entity relationship analysis.
-
-📁 **[Open Module 3](./W2%20PM3%20-%20Infrastructure%20Mapping%20with%20Maltego)**
-
-### 🛠️ Tool Used
-
-* Maltego
-
-### 🔎 Key Findings
-
-* Converted raw WHOIS and DNS information into visual relationships.
-* Used Maltego transformation workflows.
-* Mapped domain-related entities.
-* Analyzed relationships between domain and administrative information.
-* Identified an administrative/abuse contact associated with the registrar.
-* Demonstrated how graphical OSINT can simplify complex infrastructure relationships.
-
-A documented result of the exercise was the extraction of the contact:
-
-```text
-abuse@godaddy.com
-```
-
-from domain-related WHOIS information. 
-
----
-
-## 🕵️ W2-PM4 — OSINT Aggregation via theHarvester
+## 🕵️ W2-PM3 — OSINT Aggregation via theHarvester
 
 **Focus:** Passive metadata collection and OSINT aggregation.
 
@@ -238,7 +201,7 @@ The report documents this as passive OSINT collection without directly interacti
 
 ---
 
-## 📡 W2-PM5 — Local Network Scanning with Zenmap
+## 📡 W2-PM4 — Local Network Scanning with Zenmap
 
 **Focus:** Internal network discovery and host mapping.
 
@@ -341,9 +304,8 @@ The five modules demonstrate a progression from external intelligence gathering 
 | ------- | ---------------------------------------------------------------- |
 | 🔍 PM1  | Web technologies, server, WAF and DNS infrastructure identified  |
 | 🌐 PM2  | Publicly indexed cameras and open directories identified         |
-| 🕸️ PM3 | WHOIS/domain relationships mapped using Maltego                  |
-| 🕵️ PM4 | Public email addresses and subdomains identified                 |
-| 📡 PM5  | Three active hosts discovered on the local `10.0.0.0/24` network |
+| 🕵️ PM3 | Public email addresses and subdomains identified                 |
+| 📡 PM4  | Three active hosts discovered on the local `10.0.0.0/24` network |
 
 ---
 
