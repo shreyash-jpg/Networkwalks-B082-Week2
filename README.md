@@ -108,7 +108,7 @@ NetworkWalks-B082-Week2-Reconnaissance-and-Scanning/
 
 **Focus:** Active and passive reconnaissance against an authorized external target.
 
-📁 **[Open Module 1](./W2%20PM1%20-%20Kali%20Linux%20Footprinting)**
+
 
 ### 🛠️ Tools Used
 
@@ -141,7 +141,7 @@ The report documents PM1 as the active/passive footprinting module and records t
 
 **Focus:** Search-engine reconnaissance using advanced search operators.
 
-📁 **[Open Module 2](./W2%20PM2%20-%20GHDB%20%28Google%20Hacking%20Database%29%20Dorking)**
+
 
 ### 🛠️ Tool Used
 
@@ -166,7 +166,7 @@ The report identifies GHDB reconnaissance as a method for discovering informatio
 
 **Focus:** Passive metadata collection and OSINT aggregation.
 
-📁 **[Open Module 4](./W2%20PM4%20-%20OSNIT%20Aggregation%20via%20theHarvest)**
+
 
 ### 🛠️ Tool Used
 
@@ -205,7 +205,7 @@ The report documents this as passive OSINT collection without directly interacti
 
 **Focus:** Internal network discovery and host mapping.
 
-📁 **[Open Module 5](./W2%20PM5%20-%20Local%20Network%20Scanning%20with%20Zenmap)**
+
 
 ### 🛠️ Tools Used
 
